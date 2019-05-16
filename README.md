@@ -6,3 +6,8 @@
 :e-mail: sindiandriana@gmail.com
 
 :telephone: +6282372468321
+
+## Preview
+
+## Designer
+![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/designer-database.png) <br />
