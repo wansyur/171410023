@@ -7,7 +7,7 @@
 
 :telephone: +6282372468321
 
-## Preview
-
 ## Designer
+
+## Preview
 ![designer](https://raw.githubusercontent.com/univmajalengka/171410023/master/designer-database.png) <br />
